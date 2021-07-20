@@ -29,6 +29,7 @@ Exercícios realizados durante o curso de Desenvolvimento Web Full Stack na Tryb
 - [ ] 3-2: Primeiros passos em CSS
 - [ ] 3-3: HTML & CSS - Seletores e posicionamento
 - [ ] 3-4: HTML semântico
+- [ ] 3-5: Projeto: Lessons Learned
 
 </p>
 </details>
@@ -40,6 +41,7 @@ Exercícios realizados durante o curso de Desenvolvimento Web Full Stack na Tryb
 - [ ] 4-2: Array e loop for
 - [ ] 4-3: Lógica de programação e algoritmos
 - [ ] 4-4: Objetos e funções
+- [ ] 4-5: Projeto: Playground Functions
 
   </p>
   </details>
@@ -50,7 +52,9 @@ Exercícios realizados durante o curso de Desenvolvimento Web Full Stack na Tryb
 - [ ] 5-1: JavaScript - DOM e seletores
 - [ ] 5-2: JavaScript - Trabalhando com elementos
 - [ ] 5-3: JavaScript - Eventos
-- [ ] 5-4: Fundamentos - JavaScript
+- [ ] 5-4: JavaScript - Web Storage
+- [ ] 5-5: Fundamentos - JavaScript + [Projeto - Arte com pixels](https://github.com/uroque/trybe-exercises/edit/main/README.md)
+- [ ] 5-6: [Projeto - Lista de Tarefas](https://github.com/uroque/trybe-exercises/edit/main/README.md)
 
 </p>
 </details>
