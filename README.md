@@ -3,7 +3,7 @@ Exercícios realizados durante o curso de Desenvolvimento Web Full Stack na Tryb
 
 ## Módulo 1 - Fundamentos :hourglass_flowing_sand:
 
-<details><summary>Bloco 1 - Unix & Bash</summary>
+<details><summary>**Bloco 1 - Unix & Bash**</summary>
 <p>
   
   - [x] 1-3: Unix & Bash - Parte 1
@@ -12,33 +12,49 @@ Exercícios realizados durante o curso de Desenvolvimento Web Full Stack na Tryb
   </p>
 </details>
   
-### Bloco 2 - Git, Github e Internet
+<details><summary>**Bloco 2 - Git, Github e Internet**</summary>
+<p>
 
 - [x] 2-1: Git & Github - O que é e para que serve
 - [x] 2-2: Git & Github - Entendendo os comandos
 - [ ] 2-3: Internet - Entendendo como ela funciona
 
-### Bloco 3 - Introdução ao HTML e CSS
-
+  </p>
+</details>
+  
+<details><summary>**Bloco 3 - Introdução ao HTML e CSS**</summary>
+<p>
+  
 - [ ] 3-1: Introdução - HTML & CSS + Estruturas de página
 - [ ] 3-2: Primeiros passos em CSS
 - [ ] 3-3: HTML & CSS - Seletores e posicionamento
 - [ ] 3-4: HTML semântico
 
-### Bloco 4 - Introdução à JavaScript e Lógica de Programação
-
+  </p>
+  </details>
+  
+<details><summary>**Bloco 4 - Introdução à JavaScript e Lógica de Programação**</summary>
+<p>
+  
 - [ ] 4-1: Introdução - JavaScript + Primeiros passos
 - [ ] 4-2: Array e loop for
 - [ ] 4-3: Lógica de programação e algoritmos
 - [ ] 4-4: Objetos e funções
 
-### Bloco 05 - JavaScript: DOM, Eventos e Web Storage
-
+  </p>
+  </details>
+  
+<details><summary>**Bloco 05 - JavaScript: DOM, Eventos e Web Storage**</summary>
+<p>
+  
 - [ ] 5-1: JavaScript - DOM e seletores
 - [ ] 5-2: JavaScript - Trabalhando com elementos
 - [ ] 5-3: JavaScript - Eventos
 - [ ] 5-4: Fundamentos - JavaScript
 
+  </p>
+  <details>
+    
 ### Bloco 06 - HTML e CSS: Forms, Flexbox e Responsivo
 
 - [ ] 6-1: HTML & CSS - Forms
