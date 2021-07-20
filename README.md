@@ -72,7 +72,7 @@ Exercícios realizados durante o curso de Desenvolvimento Web Full Stack na Tryb
 - [ ] 10-3: Jest - Simulando comportamentos
 
 
-### <details><summary>CLICK ME</summary>
+<details><summary>CLICK ME</summary>
 <p>
   
 #### yes, even hidden code blocks!
