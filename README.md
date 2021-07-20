@@ -67,3 +67,16 @@ Exercícios realizados durante o curso de Desenvolvimento Web Full Stack na Tryb
 - [ ] 10-1: Primeiros passos no Jest
 - [ ] 10-2: Jest - Testes Assíncronos
 - [ ] 10-3: Jest - Simulando comportamentos
+
+
+<details><summary>CLICK ME</summary>
+<p>
+
+#### yes, even hidden code blocks!
+
+```python
+print("hello world!")
+```
+
+</p>
+</details>
