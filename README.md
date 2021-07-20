@@ -72,6 +72,11 @@ Exercícios realizados durante o curso de Desenvolvimento Web Full Stack na Tryb
 <details><summary>CLICK ME</summary>
 <p>
 
+  ### Bloco 1 - Unix & Bash
+
+  - [x] 1-3: Unix & Bash - Parte 1
+  - [x] 1-4: Unix & Bash - Parte 2
+  
 #### yes, even hidden code blocks!
 
 ```python
