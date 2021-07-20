@@ -29,7 +29,7 @@ Exercícios realizados durante o curso de Desenvolvimento Web Full Stack na Tryb
 - [ ] 3-2: Primeiros passos em CSS
 - [ ] 3-3: HTML & CSS - Seletores e posicionamento
 - [ ] 3-4: HTML semântico
-- [ ] 3-5: Projeto: Lessons Learned
+- [ ] 3-5: [Projeto: Lessons Learned](https://github.com/uroque/trybe-exercises/edit/main/README.md)
 
 </p>
 </details>
@@ -41,7 +41,7 @@ Exercícios realizados durante o curso de Desenvolvimento Web Full Stack na Tryb
 - [ ] 4-2: Array e loop for
 - [ ] 4-3: Lógica de programação e algoritmos
 - [ ] 4-4: Objetos e funções
-- [ ] 4-5: Projeto: Playground Functions
+- [ ] 4-5: [Projeto: Playground Functions](https://github.com/uroque/trybe-exercises/edit/main/README.md)
 
   </p>
   </details>
@@ -55,7 +55,8 @@ Exercícios realizados durante o curso de Desenvolvimento Web Full Stack na Tryb
 - [ ] 5-4: JavaScript - Web Storage
 - [ ] 5-5: Fundamentos - JavaScript + [Projeto - Arte com pixels](https://github.com/uroque/trybe-exercises/edit/main/README.md)
 - [ ] 5-6: [Projeto - Lista de Tarefas](https://github.com/uroque/trybe-exercises/edit/main/README.md)
-
+- [ ] 5-7: [Projeto - Meme Generator](https://github.com/uroque/trybe-exercises/edit/main/README.md) + [Projeto - Adivinhe a cor](https://github.com/uroque/trybe-exercises/edit/main/README.md) + [Projeto - Carta Misteriosa](https://github.com/uroque/trybe-exercises/edit/main/README.md) 
+  
 </p>
 </details>
     
@@ -67,6 +68,7 @@ Exercícios realizados durante o curso de Desenvolvimento Web Full Stack na Tryb
 - [ ] 6-3: Introdução - CSS Flexbox + CSS Flexbox - Parte 1
 - [ ] 6-4: CSS Flexbox - Parte 2
 - [ ] 6-5: CSS Responsivo - Mobile First
+- [ ] 6-6: [Projeto - Trybewarts](https://github.com/uroque/trybe-exercises/edit/main/README.md)
 
 <p>
 </details>
@@ -77,6 +79,7 @@ Exercícios realizados durante o curso de Desenvolvimento Web Full Stack na Tryb
 - [ ] 7-1: JavaScript ES6 - let, const, arrow functions e template literals
 - [ ] 7-2: JavaScript ES6 - Objects
 - [ ] 7-3: Testes unitários em JavaScript
+- [ ] 7-4: [Projeto - JavaScript Testes Unitários](https://github.com/uroque/trybe-exercises/edit/main/README.md)    
 
     </p>
   </details>
@@ -89,6 +92,7 @@ Exercícios realizados durante o curso de Desenvolvimento Web Full Stack na Tryb
 - [ ] 8-3: JavaScript ES6 - High Order Functions - map e filter
 - [ ] 8-4: JavaScript ES6 - High Order Functions - reduce
 - [ ] 8-5: JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
+- [ ] 8-6: [Projeto - Zoo Functions](https://github.com/uroque/trybe-exercises/edit/main/README.md)    
 
   </p>
   </details>
@@ -98,6 +102,7 @@ Exercícios realizados durante o curso de Desenvolvimento Web Full Stack na Tryb
 
 - [ ] 9-1: JavaScript Assíncrono e Callbacks
 - [ ] 9-2: JavaScript Promises
+- [ ] 9-3: [Projeto - Carrinho de Compras](https://github.com/uroque/trybe-exercises/edit/main/README.md)    
 
   </p>
   </details>
@@ -108,6 +113,7 @@ Exercícios realizados durante o curso de Desenvolvimento Web Full Stack na Tryb
 - [ ] 10-1: Primeiros passos no Jest
 - [ ] 10-2: Jest - Testes Assíncronos
 - [ ] 10-3: Jest - Simulando comportamentos
+- [ ] 10-3: [Projeto - Jest Assíncrono e Mocking](https://github.com/uroque/trybe-exercises/edit/main/README.md)
 
     </p>
   </details>
