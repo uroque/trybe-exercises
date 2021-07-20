@@ -27,3 +27,18 @@ Exercícios realizados durante o curso de Desenvolvimento Web Full Stack na Tryb
 - [ ] 4-2: Array e loop for
 - [ ] 4-3: Lógica de programação e algoritmos
 - [ ] 4-4: Objetos e funções
+
+### Bloco 05 - JavaScript: DOM, Eventos e Web Storage
+
+- [ ] 5-1: JavaScript - DOM e seletores
+- [ ] 5-2: JavaScript - Trabalhando com elementos
+- [ ] 5-3: JavaScript - Eventos
+- [ ] 5-4: Fundamentos - JavaScript
+
+### Bloco 06 - HTML e CSS: Forms, Flexbox e Responsivo
+
+- [ ] 6-1: HTML & CSS - Forms
+- [ ] 6-2: Bibliotecas JavaScript e Frameworks CSS
+- [ ] 6-3: Introdução - CSS Flexbox + CSS Flexbox - Parte 1
+- [ ] 6-4: CSS Flexbox - Parte 2
+- [ ] 6-5: CSS Responsivo - Mobile First
