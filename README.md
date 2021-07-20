@@ -11,6 +11,7 @@ Exercícios realizados durante o curso de Desenvolvimento Web Full Stack na Tryb
   
   </p>
 </details>
+
 ### Bloco 2 - Git, Github e Internet
 
 - [x] 2-1: Git & Github - O que é e para que serve
