@@ -17,7 +17,7 @@ Exercícios realizados durante o curso de Desenvolvimento Web Full Stack na Tryb
 
 - [x] 2-1: Git & Github - O que é e para que serve
 - [x] 2-2: Git & Github - Entendendo os comandos
-- [ ] 2-3: Internet - Entendendo como ela funciona
+- [x] 2-3: Internet - Entendendo como ela funciona
 
   </p>
 </details>
