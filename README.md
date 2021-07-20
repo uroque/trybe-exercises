@@ -5,6 +5,7 @@ Exercícios realizados durante o curso de Desenvolvimento Web Full Stack na Tryb
 
 <details><summary>Bloco 1 - Unix & Bash<summary>
 <p>
+  
   - [x] 1-3: Unix & Bash - Parte 1
   - [x] 1-4: Unix & Bash - Parte 2
 
