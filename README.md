@@ -3,7 +3,7 @@ Exercícios realizados durante o curso de Desenvolvimento Web Full Stack na Tryb
 
 ## Módulo 1 - Fundamentos :hourglass_flowing_sand:
 
-<details><summary> __Bloco 1 - Unix & Bash__ </summary>
+<details><summary>Bloco 1 - Unix & Bash</summary>
 <p>
   
   - [x] 1-3: Unix & Bash - Parte 1
@@ -12,7 +12,7 @@ Exercícios realizados durante o curso de Desenvolvimento Web Full Stack na Tryb
   </p>
 </details>
   
-<details><summary>**Bloco 2 - Git, Github e Internet**</summary>
+<details><summary><b>Bloco 2 - Git, Github e Internet<b></summary>
 <p>
 
 - [x] 2-1: Git & Github - O que é e para que serve
@@ -22,7 +22,7 @@ Exercícios realizados durante o curso de Desenvolvimento Web Full Stack na Tryb
   </p>
 </details>
   
-<details><summary>**Bloco 3 - Introdução ao HTML e CSS**</summary>
+<details><summary>Bloco 3 - Introdução ao HTML e CSS</summary>
 <p>
   
 - [ ] 3-1: Introdução - HTML & CSS + Estruturas de página
