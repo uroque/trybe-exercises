@@ -25,7 +25,7 @@ Exercícios realizados durante o curso de Desenvolvimento Web Full Stack na Tryb
 <details><summary><b>Bloco 03 - Introdução ao HTML e CSS</b></summary>
 <p>
   
-- [ ] 3-1: Introdução - HTML & CSS + Estruturas de página
+- [x] 3-1: Introdução - HTML & CSS + Estruturas de página
 - [ ] 3-2: Primeiros passos em CSS
 - [ ] 3-3: HTML & CSS - Seletores e posicionamento
 - [ ] 3-4: HTML semântico
