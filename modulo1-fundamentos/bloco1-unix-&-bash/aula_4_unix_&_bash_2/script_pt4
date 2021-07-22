@@ -1,0 +1,49 @@
+# Navega até o diretório unix_tests
+
+cd unix_tests
+
+# Instala descanso de tela do terminal tipo matrix e o executa
+
+sudo apt-get install cmatrix && cmatrix
+
+## CTRL + c para parar
+
+# Instala fortune, que nos apresenta frase sorte do dia
+
+sudo apt-get install fortune
+
+# Gera a frase sorte do dia e cria o arquivo fortune.txt, no qual estará escrita a frase
+
+fortune | cat > fortune.txt
+
+# Conta o número de linhas no arquivo fortune.txt
+
+wc -l fonrtune.txt
+
+# Instala animação do trem
+
+sudo apt-get install sl
+
+# Roda animação do trem
+
+sl
+
+ou
+
+sl -F
+
+# Instala vaquinha que fala
+
+sudo apt-get install cowsay
+
+# Roda a vaquinha falando a frase sorte do dia do comando fortune
+
+fortune | cowsay
+
+# Exibe os fatores primos do número escolhido
+
+factor [número]
+
+# Reverte o texto em um aqruivo
+
+rev [nome_do_arquivo]
