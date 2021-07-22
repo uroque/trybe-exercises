@@ -1,0 +1,63 @@
+# Cria diretório unix_tests e navega até ele
+
+mkdir unix_tests && cd unix_tests
+
+# Cria arquivo .txt vazio
+
+touch trybe.txt 
+
+# Cria uma cópia do arquivo trybe.txt chamada trybe_backup.txt
+
+cp trybe.txt trybe_backup.txt 
+
+# Renomeia o arquivo trybe.txt para trybe2.txt
+
+mv trybe.txt ./trybe2.txt 
+
+# Cria diretório backup
+
+mkdir backup 
+
+# Move o arquivo trybe_backup para o diretório backup
+
+mv trybe_backup.txt ./backup 
+
+# Cria novo diretório backup2
+
+mkdir backup2
+
+# Move arquivo trybe_backup.txt do riretório backup para o diretório backup2
+
+mv ./backup/trybe_backup.txt ./backup2
+
+# Remove diretório backup, apenas se tiver vazio
+
+rmdir backup
+
+# Renomeia o diretório backup2 para backup
+
+mv backup2 backup
+
+# Mostra o caminho completo até o diretório atual e mostra todos os arquivos dentro dele
+
+pwd && ls -la
+
+# Remove backup, mesmo contendo arquivos
+
+rm -rf backup 
+
+# Limpa o terminal (atalho = CTRL + l)
+
+clear
+
+# Exibe as 5 primeiras linhas do arquivo skills.txt
+
+head -5 skills.txt 
+
+# Exibe as 4 últimas linhas do arquivo skills.txt
+
+tail -4 skills.txt 
+
+# Remove todos os arquivos .txt do diretório
+
+rm *.txt 

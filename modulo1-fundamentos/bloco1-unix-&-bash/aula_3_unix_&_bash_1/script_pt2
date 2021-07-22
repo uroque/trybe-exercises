@@ -1,0 +1,63 @@
+# Baixa o arquivo countries.txt
+
+curl -o countries.txt "https://gist.githubusercontent.com/kalinchernev/486393efcca01623b18d/raw/daa24c9fea66afb7d68f8d69f0c4b8eeb9406e83/countries" 
+
+# Exibe todo o conteúdo do arquivo countries.txt
+
+cat countries.txt
+
+# Exibe o conteúdo do arquivo countries.txt por página
+
+less countries.txt
+
+# Exibe todo o conteúdo do arquivo countries.txt e busca por "Zambia"
+
+
+
+# Busca por brazil no aruiqov countries.txt
+
+grep "Brazil" countries.txt
+
+# Busca por "brazil"
+
+grep "brazil" countries.txt
+
+# Cria arquivo phrases.txt
+
+cat > phrases.txt
+
+16:20, hora do chá!
+Hello world
+Tem coca aí na geladeira
+
+# Busca por frases que não contém "fox" no arquivo phrases.txt
+
+grep -v "fox" phrases.txt
+
+# Conta a quantidade de palavras no arquivo phrases.txt
+
+wc -w phrases.txt
+
+# Conta a quantidade de linhas no arquivo phrases.txt
+
+wc -l phrases.txt
+
+# Cria dois arquivos vazios (empty.tbt e empty.pdf)
+
+touch empty.tbt empty.pdf
+
+# Lista todos os arquivos do diretório atual
+
+ls -la
+
+# Lista todos os arquivos do diretório atual que terminam em txt
+
+ls -la *txt
+
+# Lista todos os arquivos do diretório atual que terminam em txt ou tbt
+
+ls - la tbt txt
+
+# Acessa o manual do comando ls
+
+man ls
