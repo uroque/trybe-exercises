@@ -1,0 +1,47 @@
+# Navega até o diretório unix_tests
+
+cd unix_tests
+
+# Lista todos os processos
+
+ps
+
+# Inicia um processo de sleep de 30s em background
+
+sleep 30 &
+
+# Lista todos os processos e, sabendo o PID, mata o processo de sleep
+
+kill [número_do_processo]
+
+# Inicia um processo de sleep de 30s
+
+sleep 30
+
+## CTRL + z para suspender o processo anterior
+
+# Cria um processo sleep de 300s em background
+
+sleep 300 &
+
+# Cria dois processos sleep, um de 200s e outro de 100s
+
+## CTRL + z para suspender os processos anteriores
+
+# Exibe os processos em execução
+
+jobs
+
+# Traz o camando sleep para foreground
+
+fg
+
+## CTRL + z para suspender o processo anterior
+
+# Retoma a execução do processo suspenso, em background
+
+bg %[número_do_processo_listado_em_jobs]
+
+# Mata processos
+
+kill %[número_do_processo_listado_em_jobs] %[número_do_processo_listado_em_jobs] %[número_do_processo_listado_em_jobs]

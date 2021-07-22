@@ -1,0 +1,19 @@
+# Navega até o diretório unix_tests
+
+cd unix_tests
+
+# Exibe os arquivos no diretório atual e suas permissões
+
+ls -l
+
+# Muda a permissão do arquivo bunch_of_things.txt, permitindo que qualquer usuário possa ler e escrever
+
+chmod a+rw bunch_of_things.txt
+
+# Retira a permissão de escrita do arquivo bunch_of_things.txt para todos os usuários
+
+chmod a-w bunch_of_things.txt
+
+# Muda a permissão do arquivo bunch_of_things.txt, para que todos os usuários possam ler, mas apenas o usuário atual possa escrever
+
+chmod 644 bunch_of_things.txt

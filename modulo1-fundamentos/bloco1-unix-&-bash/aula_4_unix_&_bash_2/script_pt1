@@ -1,0 +1,58 @@
+# Navega até o diretório unix_tests
+
+cd unix_tests
+
+# Cria arquivo skills2.txt e adiciona valores
+
+cat > skills2.txt
+
+Internet
+Unix 
+Bash
+
+# Adiciona linhas ao arquivo skills2.txt
+
+cat >> skills2.txt
+
+HTML
+CSS
+Machine Learning
+Python
+Bolar 01
+
+# Cria arquivo top_skills.txt com o valor das 3 primeiras linhas do arquivo skills2.txt, em ordem alfabética
+
+head -3 skills2.txt | sort | cat > top_skills.txt
+
+# Cria arquivo phrases2.txt, com algumas frases inclusas
+
+cat > phrases2.txt
+
+E aí, bi?
+Hello, world!
+16:20 > hora do chá
+
+# Conta o número de linhas com as letras "br" no arquivo phrases2.txt
+
+grep "br" phrases2.txt | wc -l
+
+# Conta o númerod e linhas sem as letras "br" no arquivo phrases2.txt
+
+grep -v "br" phrases2.txt | wc -l
+
+# Adiciona dois nomes de países ao arquivo phrases2.txt
+
+cat >> phrases2.txt
+
+Madagacar
+Cuba
+
+# Cria arquivo bunch_of_things.txt, o qual contém o conteúdo dos arquivos phrases2.txt e countries.txt
+
+cat phrases2.txt countries.txt | cat > bunch_of_things.txt
+
+# Ordena o arquivo bunch_of_things.txt
+
+
+
+
