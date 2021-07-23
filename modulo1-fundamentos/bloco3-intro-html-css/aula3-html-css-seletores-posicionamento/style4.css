@@ -1,0 +1,31 @@
+div h3:hover {
+  border: 2px solid black;
+}
+
+#primary {
+  color: #0d324d;
+}
+
+#secondary {
+  color: #bc15bc;
+}
+
+#complementary {
+  color: #4E280D;
+}
+
+#dark {
+  color: #130D4E;
+}
+
+#light {
+  color: #99CAEE;
+}
+
+.huge {
+  padding: 2em;
+}
+
+.it {
+  font-style: italic;
+}
