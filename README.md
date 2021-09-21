@@ -27,9 +27,9 @@ Exercícios realizados durante o curso de Desenvolvimento Web Full Stack na Tryb
   
 - [x] 3-1: Introdução - HTML & CSS + Estruturas de página
 - [x] 3-2: Primeiros passos em CSS
-- [ ] 3-3: HTML & CSS - Seletores e posicionamento
-- [ ] 3-4: HTML semântico
-- [ ] 3-5: [Projeto: Lessons Learned](https://github.com/uroque/trybe-exercises/blob/main/README.md)
+- [x] 3-3: HTML & CSS - Seletores e posicionamento
+- [x] 3-4: HTML semântico
+- [x] 3-5: [Projeto: Lessons Learned](https://github.com/uroque/trybe-exercises/blob/main/README.md)
 
 </p>
 </details>
@@ -68,7 +68,7 @@ Exercícios realizados durante o curso de Desenvolvimento Web Full Stack na Tryb
 - [x] 6-3: Introdução - CSS Flexbox + CSS Flexbox - Parte 1
 - [x] 6-4: CSS Flexbox - Parte 2
 - [x] 6-5: CSS Responsivo - Mobile First
-- [x] 6-6: [Projeto - Trybewarts](https://github.com/uroque/trybe-exercises/blob/main/README.md)
+- [x] 6-6: [Projeto - Trybewarts](https://github.com/tryber/sd-015-b-project-trybewarts/pull/76/files)
 
 <p>
 </details>
