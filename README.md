@@ -1,7 +1,7 @@
 # trybe-exercises
 Exercícios realizados durante o curso de Desenvolvimento Web Full Stack na Trybe
 
-## Módulo 1 - Fundamentos :hourglass_flowing_sand:
+## Módulo 1 - Fundamentos ✔️:
 
 <details><summary><b>Bloco 01 - Unix & Bash</b></summary>
 <p>
@@ -102,7 +102,7 @@ Exercícios realizados durante o curso de Desenvolvimento Web Full Stack na Tryb
 
 - [x] 9-1: JavaScript Assíncrono e Callbacks
 - [x] 9-2: JavaScript Promises
-- [ ] 9-3: [Projeto - Carrinho de Compras](https://github.com/uroque/trybe-exercises/blob/main/README.md)    
+- [x] 9-3: [Projeto - Carrinho de Compras](https://github.com/uroque/trybe-exercises/blob/main/README.md)    
 
   </p>
   </details>
@@ -110,10 +110,10 @@ Exercícios realizados durante o curso de Desenvolvimento Web Full Stack na Tryb
 <details><summary><b>Bloco 10 - Testes automatizados com Jest</b></summary>
   <p>
 
-- [ ] 10-1: Primeiros passos no Jest
-- [ ] 10-2: Jest - Testes Assíncronos
-- [ ] 10-3: Jest - Simulando comportamentos
-- [ ] 10-3: [Projeto - Jest Assíncrono e Mocking](https://github.com/uroque/trybe-exercises/blob/main/README.md)
+- [x] 10-1: Primeiros passos no Jest
+- [x] 10-2: Jest - Testes Assíncronos
+- [x] 10-3: Jest - Simulando comportamentos
+- [x] 10-3: [Projeto - Jest Assíncrono e Mocking](https://github.com/uroque/trybe-exercises/blob/main/README.md)
 
     </p>
   </details>
